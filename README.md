@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **React Native, Svelte, Unity**
 
-⚡ Fun fact **Super Mario World is Shigeru Miyamoto’s favorite Mario game.**
+⚡ Fun fact **Pac-Man’s iconic shape was inspired by pizza**
 
  </div>
  
@@ -32,13 +32,7 @@
 
  <hr/>
 
- ---
- 
- ### :zap: Recent Activity
- <!--START_SECTION:activity-->
 
- <!--END_SECTION:activity-->
----
  <br />
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -51,15 +45,9 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ElnatanSamuel/ElnatanSamuel/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
-<hr/>
+
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
