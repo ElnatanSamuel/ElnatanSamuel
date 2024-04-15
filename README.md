@@ -31,6 +31,10 @@
 </div>
 
  <hr/>
+ ### :zap: Recent Activity
+ <!--START_SECTION:activity-->
+
+ <br />
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
