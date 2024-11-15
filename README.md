@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **an ecommerce mobile app**
  
- 🌱 I’m currently learning **React Native, Svelte, Unity**
+ 🌱 I’m currently learning **React Native, Svelte, Python, AI**
 
 ⚡ Fun fact **Pac-Man’s iconic shape was inspired by pizza**
 
@@ -38,7 +38,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,svelte" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,express,mongodb,svelte" />
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,tailwind,git" /><br>
 </div>
 
