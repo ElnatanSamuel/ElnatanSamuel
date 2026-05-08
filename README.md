@@ -4,22 +4,22 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Elnatan+Samuel!;" />
 </h1>
 
-<h3 align="center">A Full-Stack Web Developer in Ethiopia 🇪🇹</h3>
+<h3 align="center">A Full-Stack Web and Mobile Developer</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **an ecommerce mobile app**
+  I’m currently working on **A banking mobile app**
  
- 🌱 I’m currently learning **React Native, Svelte, Python, AI**
+ 🌱 I’m currently learning **Python**
 
 ⚡ Fun fact **Pac-Man’s iconic shape was inspired by pizza**
 
  </div>
  
 <div align="center"> 
-  <a href="elnatan23samuel@gmail.com">
+  <a href="elnatansamuel25@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/elnatansamuel999" target="_blank">
@@ -38,8 +38,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,express,mongodb,svelte" />
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,tailwind,git" /><br>
+    <img src="https://skillicons.dev/icons?i=reactnative,python,react,nodejs,express,mongodb,svelte,next,typescript" />
+    <img src="https://skillicons.dev/icons?i=figma,tailwind" /><br>
 </div>
 
 <br/>
