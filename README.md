@@ -1,6 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ElnatanSamuel.ElnatanSamuel" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ElnatanSamuel" />
 
-<h1 align="center">
+<h1 align="center" color="blue">
  Hello, I'm Elnatan Samuel
 </h1>
 
